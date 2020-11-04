@@ -62,6 +62,7 @@ En el repositorio de la práctica de github se adjuntará el código fuente (arc
 ### Demonstration
 Se realizará un screenshoot de cada una de la resolución de cada uno de los problemas, además se grabará un video
 explicando la solución y ejecutandola para validar su comprobación.
+https://youtu.be/M2gR7pZZkGg
 
 ## Conclusion
 En la práctica 4 fue un poco pesada y compleja. Afortunadamente los primeros semestres de profesional pude trabajar con C++ (es muy parecido a C), ya que los códigos fáciles pude realizarlos rápido, pero del trecero en adelante fue dificil para hacerlo, para mejortar y realizar esos tipos de ejercicios es seguir practicando el lenguaje, tener mente de programador respecto su lógica principalmente. Ya que sin saber su lógica, el programa no se puede programar. Se necesito ayuda externa para realizar los ultimos dos ejercicios.
